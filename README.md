@@ -1,1 +1,3 @@
 # springsecurity
+
+Autenticação em Memória.
