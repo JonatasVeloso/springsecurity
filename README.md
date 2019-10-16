@@ -1,3 +1,5 @@
-# springsecurity
+# Spring Security
 
-Autenticação em Memória.
+Dependência: Spring Security https://start.spring.io/  
+
+Este é apenas um exemplo de autenticação em memória.
